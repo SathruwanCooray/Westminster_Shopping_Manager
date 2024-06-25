@@ -2,6 +2,10 @@
 
 This is an Online Shopping Manager designed to manage products efficiently. This project was developed using Java and features a graphical user interface (GUI) built with Swing. The system offers functionality to add, delete, print, and save products, as well as open the GUI and stop the program.
 
+## Video Demonstration
+
+[![Watch the demo video](https://img.shields.io/badge/Watch-Demo%20Video-brightgreen)](https://drive.google.com/file/d/1yoOTzofsJ1I91VvkgDXhyQ8wn4mFCiew/view?usp=sharing)
+
 ## Functionality
 
 ### Command-Line Version
